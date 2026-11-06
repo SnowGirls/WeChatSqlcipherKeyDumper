@@ -1,0 +1,12 @@
+# 构建产物
+build/
+runtime/
+
+# 投递与结果（含密钥和数据库副本，绝不提交）
+out/
+*.dylib
+
+# 系统杂物
+.DS_Store
+
+__pycache__/
